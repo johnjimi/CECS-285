@@ -7,5 +7,5 @@
                     projects using hardware prototyping boards. "
 
 
-- Apparently I lost all by labs for this class. I will try to recover what I have left. Unfortunately it is likely this might be all of it.
+- Apparently I lost all my labs for this class. I will try to recover what I have left. Unfortunately, it is likely this might be all of it.
 - They don't offer this class anymore at California State University, Long Beach
